@@ -9,8 +9,8 @@ pygame.init()
 pygame.mixer.init()
 
 # Game constants
-SCREEN_WIDTH = 400
-SCREEN_HEIGHT = 600
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 900
 GRAVITY = 0.25
 FLAP_POWER = -5
 PIPE_SPEED = 3
